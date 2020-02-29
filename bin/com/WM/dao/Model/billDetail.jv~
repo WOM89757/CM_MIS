@@ -1,0 +1,55 @@
+//Source file: C:\\Users\\茂\\Desktop\\课设\\管理信息系统\\MIS\\CMMIS\\src\\com\\WM\\dao\\Model\\billDetail.java
+
+package com.WM.dao.Model;
+
+//void billDetail.setbillId(java.lang.String){
+//		this.billId = billId;    
+//   }
+//void billDetail.getSpid(){
+//		return this.spid;    
+//   }
+//void billDetail.billDetail(){// 缺省构造函数    
+//   }
+//void billDetail.getbillId(){
+//		return this.billId;    
+//   }
+//void billDetail.getGoodid(){
+//	   return this.goodsId;
+//   }
+//void billDetail.getDj(){
+//		return this.dj;    
+//   }
+//void billDetail.setDj(java.lang.Double){
+//		this.dj = dj;    
+//   }
+//void billDetail.getSl(){
+//		return this.sl;    
+//   }
+//void billDetail.getserviceid(){
+//	   return this.serviceitemId;
+//   }
+//void billDetail.setgoodsid(java.lang.String){
+//	   this.goodsId=t;
+//   }
+//void billDetail.setSl(java.lang.Integer){
+//		this.sl = sl;    
+//   }
+//void billDetail.getId(){
+//		return this.id;    
+//   }
+//void billDetail.billDetail(java.lang.String,java.lang.String,java.lang.Double,java.lang.Integer){// 完整构造函数
+//		this.billId = billId;
+//		this.spid = spid;
+//		this.dj = dj;
+//		this.sl = sl;  
+//		
+//   }
+//void billDetail.setSpid(java.lang.String){
+//		this.spid = spid;    
+//   }
+//void billDetail.setId(java.lang.Integer){
+//		this.id = id;    
+//   }
+//void billDetail.setserviceid(java.lang.String){
+//	   this.serviceitemId=t;
+//   }

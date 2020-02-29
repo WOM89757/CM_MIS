@@ -1,0 +1,85 @@
+//Source file: C:\\Users\\茂\\Desktop\\课设\\管理信息系统\\MIS\\CMMIS\\src\\com\\WM\\dao\\Model\\staff.java
+
+//Source file: C:\\Users\\茂\\Desktop\\课设\\管理信息系统\\cl\\代码\\com\\WM\\dao\\Model\\staff.java
+
+package com.WM.dao.Model;
+
+import java.sql.Date;
+
+/**
+员工
+ */
+public class staff 
+{
+   private Integer staffId;
+   private String staffname;
+   private String password;
+   private String staffposition;
+   private Integer phonenumber;
+   private Double basePay;
+   private Date joindate;
+   
+   /**
+   @roseuid 5D0B97B701A8
+    */
+   public staff() 
+   {
+    
+   }
+   
+   /**
+   @roseuid 5D0B97B701B0
+    */
+   public void setStaffid() 
+   {
+    
+   }
+   
+   /**
+   @roseuid 5D0B97B701B9
+    */
+   public void setStaffname() 
+   {
+    
+   }
+   
+   /**
+   @roseuid 5D0B97B701C2
+    */
+   public void setPassword() 
+   {
+    
+   }
+   
+   /**
+   @roseuid 5D0B97B701CB
+    */
+   public void setStaffposition() 
+   {
+    
+   }
+   
+   /**
+   @roseuid 5D0B97B701D4
+    */
+   public void setponenumber() 
+   {
+    
+   }
+   
+   /**
+   @roseuid 5D0B97B701DD
+    */
+   public void setbasePay() 
+   {
+    
+   }
+   
+   /**
+   @roseuid 5D0B97B701E7
+    */
+   public void setJoindate() 
+   {
+    
+   }
+}

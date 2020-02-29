@@ -1,0 +1,48 @@
+//Source file: C:\\Users\\茂\\Desktop\\课设\\管理信息系统\\cl\\代码\\com\\WM\\dao\\goodsDAO.java
+
+package com.WM.dao;
+
+
+public class goodsDAO extends DAO 
+{
+   
+   /**
+    * @roseuid 5D04BD22034B
+    */
+   public goodsDAO() 
+   {
+    
+   }
+   
+   /**
+    * @roseuid 5D04AF7002BA
+    */
+   public void add() 
+   {
+    
+   }
+   
+   /**
+    * @roseuid 5D04AF7D01A8
+    */
+   public void insert() 
+   {
+    
+   }
+   
+   /**
+    * @roseuid 5D04B0140010
+    */
+   public void delete() 
+   {
+    
+   }
+   
+   /**
+    * @roseuid 5D04B06B0108
+    */
+   public void search() 
+   {
+    
+   }
+}

@@ -1,0 +1,6 @@
+package com.WM.dao.Model;
+
+public class gddetail {
+	private String id;
+
+}

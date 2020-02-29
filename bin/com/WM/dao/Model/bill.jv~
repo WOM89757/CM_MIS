@@ -1,0 +1,51 @@
+//Source file: C:\\Users\\茂\\Desktop\\课设\\管理信息系统\\MIS\\CMMIS\\src\\com\\WM\\dao\\Model\\bill.java
+
+package com.WM.dao.Model;
+
+import java.util.HashSet;
+import java.util.Set;
+//void bill.setKhname(java.lang.String){
+//		this.khname = khname;    
+//   }
+//void bill.setXsdate(java.lang.String){
+//		this.xsdate = xsdate;    
+//   }
+//void bill.getXsdate(){
+//		return this.xsdate;    
+//   }
+//void bill.getbillDetails(){
+//		return this.billDetails;    
+//   }
+//void bill.setCzy(java.lang.String){
+//		this.czy = czy;    
+//   }
+//void bill.getJe(){
+//		return this.je;    
+//   }
+//void bill.setSellId(java.lang.String){
+//		this.billid = billid;    
+//   }
+//void bill.getSellId(){
+//		return this.billid;    
+//   }
+//void bill.setJe(java.lang.String){
+//		this.je = je;    
+//   }
+//void bill.bill(java.lang.String,java.lang.String,java.lang.String,java.lang.String){// 完整构造函数
+//		this.billid = billid;
+//		this.je = je;
+//		this.khname = khname;
+//		this.xsdate = xsdate;
+//		this.billDetails = billDetails;    
+//   }
+//void bill.setbillDetails(java.util.Set){
+//		this.billDetails = billDetails;    
+//   }
+//void bill.getCzy(){
+//		return this.czy;    
+//   }
+//void bill.getKhname(){
+//		return this.khname;    
+//   }
+//void bill.bill(){// 缺省构造函数    
+//   }

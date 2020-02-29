@@ -1,0 +1,27 @@
+package com.WM.test;
+
+import java.sql.ResultSet;
+import java.sql.SQLException;
+
+import javax.swing.JFrame;
+
+import com.WM.*;
+import com.WM.Main.MainFrame;
+import com.WM.dao.DAO;
+import com.WM.login.LoginDialog;
+
+public class test {
+
+	public static void main(String[] args) throws SQLException {
+		// TODO Auto-generated method stub
+		JFrame m=new MainFrame();
+		//LoginDialog m=new LoginDialog();
+		m.setVisible(true);// 使主窗体可见
+	//	boolean r=DAO.checkLogin("admin", "admina");
+	//	System.out.print(r);
+	
+		
+		
+	}
+
+}

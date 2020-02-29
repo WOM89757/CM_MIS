@@ -1,0 +1,48 @@
+//Source file: C:\\Users\\茂\\Desktop\\课设\\管理信息系统\\cl\\代码\\com\\WM\\dao\\billDAO.java
+
+package com.WM.dao;
+
+
+public class billDAO extends DAO 
+{
+   
+   /**
+    * @roseuid 5D04BD220275
+    */
+   public billDAO() 
+   {	
+    
+   }
+   
+   /**
+    * @roseuid 5D04B0210172
+    */
+   public void add() 
+   {
+    
+   }
+   
+   /**
+    * @roseuid 5D04B023007E
+    */
+   public void insert() 
+   {
+    
+   }
+   
+   /**
+    * @roseuid 5D04B02700D5
+    */
+   public void delete() 
+   {
+    
+   }
+   
+   /**
+    * @roseuid 5D04B07102F7
+    */
+   public void search() 
+   {
+    
+   }
+}

@@ -1,0 +1,134 @@
+//Source file: C:\\Users\\茂\\Desktop\\课设\\管理信息系统\\MIS\\CMMIS\\src\\com\\WM\\dao\\Model\\goods.java
+
+//Source file: C:\\Users\\茂\\Desktop\\课设\\管理信息系统\\cl\\代码\\com\\WM\\dao\\Model\\goods.java
+
+package com.WM.dao.Model;
+
+import com.WM.dao.goodsDAO;
+
+public class goods 
+{
+   private String Classic;
+   private String name;
+   private String Stock;
+   private String safeStock;
+   private String sellingPrice;
+   private String id;
+   public goodsDAO theGoodsDAO;
+   
+   /**
+   @roseuid 5D0B97B60111
+    */
+   public goods() 
+   {
+    
+   }
+   
+   /**
+   @param id
+   @roseuid 5D0B97B60119
+    */
+   public void setId(String id) 
+   {
+	   this.id=id;    
+   }
+   
+   /**
+   @return java.lang.String
+   @roseuid 5D0B97B60126
+    */
+   public String getId() 
+   {
+	   return this.id;    
+   }
+   
+   /**
+   @param s
+   @roseuid 5D0B97B60131
+    */
+   public void setClassic(String s) 
+   {
+    this.Classic=s;    
+   }
+   
+   /**
+   @param s
+   @roseuid 5D0B97B6013E
+    */
+   public void setName(String s) 
+   {
+    this.name=s;    
+   }
+   
+   /**
+   @param s
+   @roseuid 5D0B97B6014B
+    */
+   public void setStock(String s) 
+   {
+    this.Stock=s;    
+   }
+   
+   /**
+   @param s
+   @roseuid 5D0B97B60159
+    */
+   public void setSafeStock(String s) 
+   {
+    this.safeStock=s;    
+   }
+   
+   /**
+   @param s
+   @roseuid 5D0B97B60179
+    */
+   public void setSellingPrice(String s) 
+   {
+    this.sellingPrice=s;    
+   }
+   
+   /**
+   @return java.lang.String
+   @roseuid 5D0B97B60187
+    */
+   public String getClassic() 
+   {
+    return this.Classic;    
+   }
+   
+   /**
+   @return java.lang.String
+   @roseuid 5D0B97B60193
+    */
+   public String getName() 
+   {
+    return this.name;    
+   }
+   
+   /**
+   @return java.lang.String
+   @roseuid 5D0B97B6019E
+    */
+   public String getStock() 
+   {
+    return this.Stock;    
+   }
+   
+   /**
+   @return java.lang.String
+   @roseuid 5D0B97B601A9
+    */
+   public String getSafeStock() 
+   {
+    return this.safeStock;    
+   }
+   
+   /**
+   @return java.lang.String
+   @roseuid 5D0B97B601B4
+    */
+   public String getSellingPrice() 
+   {
+    return this.sellingPrice;    
+   }
+}

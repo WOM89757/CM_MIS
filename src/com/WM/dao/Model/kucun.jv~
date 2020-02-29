@@ -1,0 +1,55 @@
+//Source file: C:\\Users\\茂\\Desktop\\课设\\管理信息系统\\MIS\\CMMIS\\src\\com\\WM\\dao\\Model\\kucun.java
+
+package com.WM.dao.Model;
+
+import com.WM.dao.goodsDAO;
+
+public class kucun 
+{
+   private String name;
+   private String id;
+   
+   /**
+   @roseuid 5D0B97B6030C
+    */
+   public kucun() 
+   {
+    
+   }
+   
+   /**
+   @param id
+   @roseuid 5D0B97B60314
+    */
+   public void setId(String id) 
+   {
+	   this.id=id;    
+   }
+   
+   /**
+   @return java.lang.String
+   @roseuid 5D0B97B60320
+    */
+   public String getId() 
+   {
+	   return this.id;    
+   }
+   
+   /**
+   @param name
+   @roseuid 5D0B97B6032A
+    */
+   public void setName(String name) 
+   {	
+	 this.name=name;    
+   }
+   
+   /**
+   @return java.lang.String
+   @roseuid 5D0B97B60335
+    */
+   public String getName() 
+   {
+  return this.name;    
+   }
+}

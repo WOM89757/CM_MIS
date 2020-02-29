@@ -1,0 +1,96 @@
+//Source file: C:\\Users\\茂\\Desktop\\课设\\管理信息系统\\MIS\\CMMIS\\src\\com\\WM\\dao\\Model\\serviceItems.java
+
+//Source file: C:\\Users\\茂\\Desktop\\课设\\管理信息系统\\cl\\代码\\com\\WM\\dao\\Model\\serviceItems.java
+
+package com.WM.dao.Model;
+
+import com.WM.dao.serviceItemsDAO;
+
+public class serviceItems 
+{
+   private String serviceitemClassic;
+   private String ID;
+   private String serviceName;
+   private Double sellingprice;
+   public serviceItemsDAO theServiceItemsDAO;
+   
+   /**
+   @roseuid 5D0B97B70042
+    */
+   public serviceItems() 
+   {
+    
+   }
+   
+   /**
+   @param t
+   @roseuid 5D0B97B70049
+    */
+   public void setid(String t) 
+   {
+	   this.ID=t;    
+   }
+   
+   /**
+   @return java.lang.String
+   @roseuid 5D0B97B70056
+    */
+   public String getid() 
+   {
+	   return this.ID;    
+   }
+   
+   /**
+   @param t
+   @roseuid 5D0B97B70073
+    */
+   public void setServiceItemcs(String t) 
+   {
+    this.serviceitemClassic=t;    
+   }
+   
+   /**
+   @param t
+   @roseuid 5D0B97B70080
+    */
+   public void setServiceName(String t) 
+   {
+    this.serviceName=t;    
+   }
+   
+   /**
+   @param t
+   @roseuid 5D0B97B7008E
+    */
+   public void setSellingPrice(Double t) 
+   {
+    this.sellingprice=t;    
+   }
+   
+   /**
+   @return java.lang.String
+   @roseuid 5D0B97B7009B
+    */
+   public String getServiceItems() 
+   {
+    return this.serviceitemClassic;    
+   }
+   
+   /**
+   @return java.lang.String
+   @roseuid 5D0B97B700A6
+    */
+   public String getServiceName() 
+   {
+    return this.serviceName;    
+   }
+   
+   /**
+   @return double
+   @roseuid 5D0B97B700B1
+    */
+   public double getSellingPrice() 
+   {
+    return this.sellingprice;    
+   }
+}

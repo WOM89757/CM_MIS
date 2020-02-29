@@ -1,0 +1,17 @@
+//Source file: C:\\Users\\茂\\Desktop\\课设\\管理信息系统\\MIS\\CMMIS\\src\\com\\WM\\dao\\Model\\serviceItemsinfo.java
+
+package com.WM.dao.Model;
+
+import com.WM.dao.goodsDAO;
+
+public class serviceItemsinfo 
+{
+   
+   /**
+   @roseuid 5D0CA7190218
+    */
+   public serviceItemsinfo() 
+   {
+    
+   }
+}

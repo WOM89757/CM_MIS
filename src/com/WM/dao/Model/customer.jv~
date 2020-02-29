@@ -1,0 +1,138 @@
+//Source file: C:\\Users\\茂\\Desktop\\课设\\管理信息系统\\MIS\\CMMIS\\src\\com\\WM\\dao\\Model\\customer.java
+
+//Source file: C:\\Users\\茂\\Desktop\\课设\\管理信息系统\\cl\\代码\\com\\WM\\dao\\Model\\customer.java
+
+package com.WM.dao.Model;
+
+import java.sql.Date;
+
+public class customer implements java.io.Serializable
+{
+   private Integer cardId;
+   private String userName;
+   private String password;
+   private Integer phoneNumber;
+   private Date joinDate;
+   private Double money;
+   private Integer integral;
+   
+   /**
+   @roseuid 5D0B97B502FA
+    */
+   public customer() 
+   {
+    
+   }
+   
+   /**
+   @roseuid 5D0B97B50309
+    */
+   public void setCardid() 
+   {
+    
+   }
+   
+   /**
+   @roseuid 5D0B97B50312
+    */
+   public void setUsername() 
+   {
+    
+   }
+   
+   /**
+   @roseuid 5D0B97B5031D
+    */
+   public void setpassword() 
+   {
+    
+   }
+   
+   /**
+   @roseuid 5D0B97B50327
+    */
+   public void setPhonenumber() 
+   {
+    
+   }
+   
+   /**
+   @roseuid 5D0B97B50330
+    */
+   public void setjoinDate() 
+   {
+    
+   }
+   
+   /**
+   @roseuid 5D0B97B50339
+    */
+   public void setmoney() 
+   {
+    
+   }
+   
+   /**
+   @roseuid 5D0B97B50342
+    */
+   public void setIntegral() 
+   {
+    
+   }
+   
+   /**
+   @roseuid 5D0B97B5034C
+    */
+   public void getCardid() 
+   {
+    
+   }
+   
+   /**
+   @roseuid 5D0B97B50355
+    */
+   public void getUsername() 
+   {
+    
+   }
+   
+   /**
+   @roseuid 5D0B97B5035E
+    */
+   public void getpassword() 
+   {
+    
+   }
+   
+   /**
+   @roseuid 5D0B97B5036A
+    */
+   public void getPhonenumber() 
+   {
+    
+   }
+   
+   /**
+   @roseuid 5D0B97B50374
+    */
+   public void getJoindate() 
+   {
+    
+   }
+   
+   /**
+   @roseuid 5D0B97B5037E
+    */
+   public void getmoney() 
+   {
+    
+   }
+   
+   /**
+   @roseuid 5D0B97B50388
+    */
+   public void getIntegral() 
+   {
+    
+   }
+}
